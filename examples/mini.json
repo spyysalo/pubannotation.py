@@ -23,7 +23,7 @@
   "relations": [
     {
       "id": "R5",
-      "obj": "E2",
+      "obj": "E1",
       "pred": "themeOf",
       "subj": "T1"
     }
