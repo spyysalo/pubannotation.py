@@ -1,0 +1,35 @@
+{
+  "denotations": [
+    {
+      "id": "T1",
+      "obj": "Protein",
+      "span": { "begin": 19, "end": 49 }
+    },
+    {
+      "id": "E1",
+      "obj": "Gene_expression",
+      "span": { "begin": 55, "end": 65 }
+    }
+  ],
+  "divid": 0,
+  "modifications": [
+    {
+      "id": "M1",
+      "obj": "E1",
+      "pred": "Negation"
+    }
+  ],
+  "project": "bionlp-st-ge-2013-training",
+  "relations": [
+    {
+      "id": "R5",
+      "obj": "E2",
+      "pred": "themeOf",
+      "subj": "T1"
+    }
+  ],
+  "sourcedb": "PMC",
+  "sourceid": "1310901",
+  "target": "http://pubannotation.org/docs/sourcedb/PMC/sourceid/1310901/divs/0",
+  "text": "Down-regulation of interferon regulatory factor 4 gene expression in leukemic cells."
+}

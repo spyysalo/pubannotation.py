@@ -1,0 +1,419 @@
+{
+    "denotations": [
+        {
+            "id": "E1",
+            "obj": "Negative_regulation",
+            "span": {
+                "begin": 0,
+                "end": 15
+            }
+        },
+        {
+            "id": "T1",
+            "obj": "Protein",
+            "span": {
+                "begin": 19,
+                "end": 49
+            }
+        },
+        {
+            "id": "E2",
+            "obj": "Gene_expression",
+            "span": {
+                "begin": 55,
+                "end": 65
+            }
+        },
+        {
+            "id": "T2",
+            "obj": "Protein",
+            "span": {
+                "begin": 158,
+                "end": 161
+            }
+        },
+        {
+            "id": "T3",
+            "obj": "Protein",
+            "span": {
+                "begin": 162,
+                "end": 165
+            }
+        },
+        {
+            "id": "E3",
+            "obj": "Regulation",
+            "span": {
+                "begin": 305,
+                "end": 317
+            }
+        },
+        {
+            "id": "T4",
+            "obj": "Protein",
+            "span": {
+                "begin": 367,
+                "end": 397
+            }
+        },
+        {
+            "id": "T5",
+            "obj": "Protein",
+            "span": {
+                "begin": 399,
+                "end": 404
+            }
+        },
+        {
+            "id": "T6",
+            "obj": "Protein",
+            "span": {
+                "begin": 658,
+                "end": 663
+            }
+        },
+        {
+            "id": "E4",
+            "obj": "Regulation",
+            "span": {
+                "begin": 720,
+                "end": 730
+            }
+        },
+        {
+            "id": "T7",
+            "obj": "Protein",
+            "span": {
+                "begin": 734,
+                "end": 739
+            }
+        },
+        {
+            "id": "E5",
+            "obj": "Gene_expression",
+            "span": {
+                "begin": 740,
+                "end": 750
+            }
+        },
+        {
+            "id": "E6",
+            "obj": "Regulation",
+            "span": {
+                "begin": 858,
+                "end": 865
+            }
+        },
+        {
+            "id": "T8",
+            "obj": "Protein",
+            "span": {
+                "begin": 866,
+                "end": 871
+            }
+        },
+        {
+            "id": "E7",
+            "obj": "Gene_expression",
+            "span": {
+                "begin": 872,
+                "end": 882
+            }
+        },
+        {
+            "id": "T9",
+            "obj": "Protein",
+            "span": {
+                "begin": 911,
+                "end": 916
+            }
+        },
+        {
+            "id": "E8",
+            "obj": "Regulation",
+            "span": {
+                "begin": 972,
+                "end": 981
+            }
+        },
+        {
+            "id": "T10",
+            "obj": "Protein",
+            "span": {
+                "begin": 982,
+                "end": 987
+            }
+        },
+        {
+            "id": "E9",
+            "obj": "Transcription",
+            "span": {
+                "begin": 988,
+                "end": 1001
+            }
+        },
+        {
+            "id": "T11",
+            "obj": "Protein",
+            "span": {
+                "begin": 1023,
+                "end": 1028
+            }
+        },
+        {
+            "id": "E10",
+            "obj": "Gene_expression",
+            "span": {
+                "begin": 1029,
+                "end": 1037
+            }
+        },
+        {
+            "id": "E11",
+            "obj": "Positive_regulation",
+            "span": {
+                "begin": 1134,
+                "end": 1142
+            }
+        },
+        {
+            "id": "E12",
+            "obj": "Positive_regulation",
+            "span": {
+                "begin": 1182,
+                "end": 1190
+            }
+        },
+        {
+            "id": "T12",
+            "obj": "Protein",
+            "span": {
+                "begin": 1194,
+                "end": 1199
+            }
+        },
+        {
+            "id": "T13",
+            "obj": "Protein",
+            "span": {
+                "begin": 1339,
+                "end": 1344
+            }
+        },
+        {
+            "id": "E13",
+            "obj": "Gene_expression",
+            "span": {
+                "begin": 1345,
+                "end": 1353
+            }
+        },
+        {
+            "id": "T14",
+            "obj": "Protein",
+            "span": {
+                "begin": 1365,
+                "end": 1370
+            }
+        },
+        {
+            "id": "E14",
+            "obj": "Gene_expression",
+            "span": {
+                "begin": 1371,
+                "end": 1379
+            }
+        },
+        {
+            "id": "T15",
+            "obj": "Protein",
+            "span": {
+                "begin": 1456,
+                "end": 1461
+            }
+        },
+        {
+            "id": "E15",
+            "obj": "Negative_regulation",
+            "span": {
+                "begin": 1462,
+                "end": 1477
+            }
+        },
+        {
+            "id": "T16",
+            "obj": "Protein",
+            "span": {
+                "begin": 1687,
+                "end": 1692
+            }
+        },
+        {
+            "id": "E16",
+            "obj": "Negative_regulation",
+            "span": {
+                "begin": 1741,
+                "end": 1755
+            }
+        },
+        {
+            "id": "T17",
+            "obj": "Protein",
+            "span": {
+                "begin": 1756,
+                "end": 1761
+            }
+        },
+        {
+            "id": "E17",
+            "obj": "Gene_expression",
+            "span": {
+                "begin": 1762,
+                "end": 1772
+            }
+        }
+    ],
+    "divid": 0,
+    "modifications": [
+        {
+            "id": "M1",
+            "obj": "E3",
+            "pred": "Negation"
+        },
+        {
+            "id": "M2",
+            "obj": "E4",
+            "pred": "Speculation"
+        },
+        {
+            "id": "M3",
+            "obj": "E10",
+            "pred": "Negation"
+        },
+        {
+            "id": "M4",
+            "obj": "E13",
+            "pred": "Negation"
+        },
+        {
+            "id": "M5",
+            "obj": "E16",
+            "pred": "Speculation"
+        }
+    ],
+    "project": "bionlp-st-ge-2013-training",
+    "relations": [
+        {
+            "id": "R10",
+            "obj": "E7",
+            "pred": "themeOf",
+            "subj": "T8"
+        },
+        {
+            "id": "R11",
+            "obj": "E8",
+            "pred": "themeOf",
+            "subj": "E9"
+        },
+        {
+            "id": "R12",
+            "obj": "E9",
+            "pred": "themeOf",
+            "subj": "T10"
+        },
+        {
+            "id": "R13",
+            "obj": "E10",
+            "pred": "themeOf",
+            "subj": "T11"
+        },
+        {
+            "id": "R14",
+            "obj": "E11",
+            "pred": "themeOf",
+            "subj": "E12"
+        },
+        {
+            "id": "R15",
+            "obj": "E12",
+            "pred": "themeOf",
+            "subj": "T12"
+        },
+        {
+            "id": "R16",
+            "obj": "E13",
+            "pred": "themeOf",
+            "subj": "T13"
+        },
+        {
+            "id": "R17",
+            "obj": "E14",
+            "pred": "themeOf",
+            "subj": "T14"
+        },
+        {
+            "id": "R18",
+            "obj": "E15",
+            "pred": "themeOf",
+            "subj": "T15"
+        },
+        {
+            "id": "R19",
+            "obj": "E16",
+            "pred": "themeOf",
+            "subj": "E17"
+        },
+        {
+            "id": "R20",
+            "obj": "E17",
+            "pred": "themeOf",
+            "subj": "T17"
+        },
+        {
+            "id": "R3",
+            "obj": "T4",
+            "pred": "equivalentTo",
+            "subj": "T5"
+        },
+        {
+            "id": "R4",
+            "obj": "E1",
+            "pred": "themeOf",
+            "subj": "E2"
+        },
+        {
+            "id": "R5",
+            "obj": "E2",
+            "pred": "themeOf",
+            "subj": "T1"
+        },
+        {
+            "id": "R6",
+            "obj": "E3",
+            "pred": "themeOf",
+            "subj": "T4"
+        },
+        {
+            "id": "R7",
+            "obj": "E4",
+            "pred": "themeOf",
+            "subj": "E5"
+        },
+        {
+            "id": "R8",
+            "obj": "E5",
+            "pred": "themeOf",
+            "subj": "T7"
+        },
+        {
+            "id": "R9",
+            "obj": "E6",
+            "pred": "themeOf",
+            "subj": "E7"
+        }
+    ],
+    "sourcedb": "PMC",
+    "sourceid": "1310901",
+    "target": "http://pubannotation.org/docs/sourcedb/PMC/sourceid/1310901/divs/0",
+    "text": "Down-regulation of interferon regulatory factor 4 gene expression in leukemic cells due to hypermethylation of CpG motifs in the promoter region\nAlthough the bcr-abl translocation has been shown to be the causative genetic aberration in chronic myeloid leukemia (CML), there is mounting evidence that the deregulation of other genes, such as the transcription factor interferon regulatory factor 4 (IRF-4), is also implicated in the pathogenesis of CML. Promoter methylation of CpG target sites or direct deletions/insertions of genes are mechanisms of a reversible or permanent silencing of gene expression, respectively. Therefore, we investigated whether IRF-4 promoter methylation or mutation may be involved in the regulation of IRF-4 expression in leukemia cells. Whereas promoter mutations or structural rearrangements could be excluded as a cause of altered IRF-4 expression in hematopoietic cells, the IRF-4 promoter methylation status was found to significantly influence IRF-4 transcription. First, treatment of IRF-4-negative lymphoid, myeloid and monocytic cell lines with the methylation-inhibitor 5-aza-2-deoxycytidine resulted in a time- and concentration-dependent increase of IRF-4 mRNA and protein levels. Second, using a restriction-PCR-assay and bisulfite-sequencing we identified specifically methylated CpG sites in IRF-4-negative but not in IRF-4-positive cells. Third, we clearly determined promoter methylation as a mechanism for IRF-4 down-regulation via reporter gene assays, but did not detect an association of methylational status and mRNA expression of DNA methyltransferases or methyl-CpG-binding proteins. Together, these data suggest CpG site-specific IRF-4 promoter methylation as a putative mechanism of down-regulated IRF-4 expression in leukemia."
+}
