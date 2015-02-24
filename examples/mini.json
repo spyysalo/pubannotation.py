@@ -11,7 +11,6 @@
       "span": { "begin": 55, "end": 65 }
     }
   ],
-  "divid": 0,
   "modifications": [
     {
       "id": "M1",
@@ -19,7 +18,7 @@
       "pred": "Negation"
     }
   ],
-  "project": "bionlp-st-ge-2013-training",
+  "project": "test-project",
   "relations": [
     {
       "id": "R5",
@@ -28,8 +27,8 @@
       "subj": "T1"
     }
   ],
-  "sourcedb": "PMC",
+  "sourcedb": "PubMed",
   "sourceid": "1310901",
-  "target": "http://pubannotation.org/docs/sourcedb/PMC/sourceid/1310901/divs/0",
+  "target": "http://pubannotation.org/docs/sourcedb/PubMed/sourceid/1310901/",
   "text": "Down-regulation of interferon regulatory factor 4 gene expression in leukemic cells."
 }
